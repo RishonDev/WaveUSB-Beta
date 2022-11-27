@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="github.stephenc.java.iso.tools.sabre" type="repository">
+    <properties maven-id="com.github.stephenc.java-iso-tools:sabre:2.1.0" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/sabre-2.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/commons-lang-2.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/ant-1.9.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/ant-launcher-1.9.15.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

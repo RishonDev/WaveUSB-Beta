@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="github.stephenc.java.iso.tools.loop.fs.api" type="repository">
+    <properties maven-id="com.github.stephenc.java-iso-tools:loop-fs-api:2.1.0" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/loop-fs-api-2.1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
