@@ -1,0 +1,23 @@
+<component name="libraryTable">
+  <library name="java-iso-tools">
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/src/resources/libraries/java-iso-tools-main.zip!/java-iso-tools-main/examples/archive/src/main/java" />
+      <root url="jar://$PROJECT_DIR$/src/resources/libraries/java-iso-tools-main.zip!/java-iso-tools-main/examples/extract/src/main/java" />
+      <root url="jar://$PROJECT_DIR$/src/resources/libraries/java-iso-tools-main.zip!/java-iso-tools-main/iso9660-ant-tasks/src/main/java" />
+      <root url="jar://$PROJECT_DIR$/src/resources/libraries/java-iso-tools-main.zip!/java-iso-tools-main/iso9660-maven-plugin/src/main/java" />
+      <root url="jar://$PROJECT_DIR$/src/resources/libraries/java-iso-tools-main.zip!/java-iso-tools-main/iso9660-maven-plugin/src/test/java" />
+      <root url="jar://$PROJECT_DIR$/src/resources/libraries/java-iso-tools-main.zip!/java-iso-tools-main/iso9660-vfs-impl/src/main/java" />
+      <root url="jar://$PROJECT_DIR$/src/resources/libraries/java-iso-tools-main.zip!/java-iso-tools-main/iso9660-writer" />
+      <root url="jar://$PROJECT_DIR$/src/resources/libraries/java-iso-tools-main.zip!/java-iso-tools-main/iso9660-writer/src/main/java" />
+      <root url="jar://$PROJECT_DIR$/src/resources/libraries/java-iso-tools-main.zip!/java-iso-tools-main/iso9660-writer/src/test/java" />
+      <root url="jar://$PROJECT_DIR$/src/resources/libraries/java-iso-tools-main.zip!/java-iso-tools-main/loop-fs-api/src/main/java" />
+      <root url="jar://$PROJECT_DIR$/src/resources/libraries/java-iso-tools-main.zip!/java-iso-tools-main/loop-fs-iso-impl/src/main/java" />
+      <root url="jar://$PROJECT_DIR$/src/resources/libraries/java-iso-tools-main.zip!/java-iso-tools-main/loop-fs-iso-impl/src/test/java" />
+      <root url="jar://$PROJECT_DIR$/src/resources/libraries/java-iso-tools-main.zip!/java-iso-tools-main/loop-fs-spi/src/main/java" />
+      <root url="jar://$PROJECT_DIR$/src/resources/libraries/java-iso-tools-main.zip!/java-iso-tools-main/loop-fs-udf-impl/src/main/java" />
+      <root url="jar://$PROJECT_DIR$/src/resources/libraries/java-iso-tools-main.zip!/java-iso-tools-main/sabre/src/main/java" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="WaveUSB:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/WaveUSB_jar</output-path>
+    <root id="archive" name="WaveUSB.jar">
+      <element id="module-output" name="WaveUSB" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/commons-io-2.11.0/commons-io-2.11.0-tests.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/commons-io-2.11.0/commons-io-2.11.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
