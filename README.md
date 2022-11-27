@@ -1,2 +1,3 @@
 # WaveUSB
- USB ISO Writer Designed in java
+
+The USB writer completly designed in java.
