@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="apache.commons.compress1" type="repository">
+    <properties maven-id="org.apache.commons:commons-compress:1.22" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/IdeaProjects/WaveUSB2/libs/commons-compress-1.22.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

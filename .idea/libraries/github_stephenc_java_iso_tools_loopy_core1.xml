@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="github.stephenc.java.iso.tools.loopy.core1" type="repository">
+    <properties maven-id="com.github.stephenc.java-iso-tools:loopy-core:1.2.2" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/IdeaProjects/WaveUSB2/libs/loopy-core-1.2.2.jar!/" />
+      <root url="jar://$USER_HOME$/IdeaProjects/WaveUSB2/libs/commons-logging-1.0.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

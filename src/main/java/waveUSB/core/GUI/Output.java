@@ -1,13 +1,3 @@
-package waveUSB.core.GUI;
-
-import java.net.URLClassLoader;
-import java.net.URL;
-
-public class Output {
-    public static void main(String[] args) {
-        URL[] urls = ((URLClassLoader) ClassLoader.getSystemClassLoader()).getURLs();
-        for (URL url : urls) {
-            System.out.println(url);
-        }
-    }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:7559a8aa6b0852010d2a86c4a595cf3c599276f985cc43e873290c633b1c744c
+size 534
