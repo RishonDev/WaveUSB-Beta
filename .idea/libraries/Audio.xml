@@ -1,13 +1,13 @@
 <component name="libraryTable">
   <library name="Audio">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/libs/Audio.jar!/" />
-      <root url="jar://$PROJECT_DIR$/libs/jaad-0.8.4.jar!/" />
-      <root url="jar://$PROJECT_DIR$/libs/jlayer-1.0.1.4.jar!/" />
-      <root url="jar://$PROJECT_DIR$/libs/jogg-0.0.7.jar!/" />
-      <root url="jar://$PROJECT_DIR$/libs/jorbis-0.0.15.jar!/" />
-      <root url="jar://$PROJECT_DIR$/libs/tritonus_share.jar!/" />
-      <root url="jar://$PROJECT_DIR$/libs/vorbisspi1.0.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Audio/out/artifacts/Audio_jar/Audio.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Audio/out/artifacts/Audio_jar/jaad-0.8.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Audio/out/artifacts/Audio_jar/jlayer-1.0.1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Audio/out/artifacts/Audio_jar/jogg-0.0.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Audio/out/artifacts/Audio_jar/jorbis-0.0.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Audio/out/artifacts/Audio_jar/tritonus_share.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Audio/out/artifacts/Audio_jar/vorbisspi1.0.3.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

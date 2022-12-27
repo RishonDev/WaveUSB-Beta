@@ -19,10 +19,7 @@ while [[ $# -gt 0 ]]; do
     ;;
     -c| --cleanBuild)
     ;;
-    -*|--*)
-      echo "Unknown option $1"
-      exit 1
-      ;;
+
     *)
       POSITIONAL_ARGS+=("$1") # save positional arg
       shift # past argument
