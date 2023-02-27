@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="net.samuelcampos.usbdrivedetector" type="repository">
+    <properties maven-id="net.samuelcampos:usbdrivedetector:2.2.1" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/usbdrivedetector-2.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/slf4j-api-1.7.36.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/powershell-lib-java-2.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
